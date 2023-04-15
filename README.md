@@ -1,6 +1,6 @@
 ## Hi there
 I am Nick, mostly using Python since it is the only language I know well enough. Planning to learn the C family, Java, Rust/Go in the future.
-I will possibly also have learn Javascript or a JS Framework though I don't like it.
+I will possibly also have to learn Javascript or a JS Framework though I don't like it.
 
 ### Where to reach me
 [![Discord - Neek#8044](https://img.shields.io/badge/Discord-Neek%238044-mediumslateblue?style=for-the-badge&logo=discord)](https://discordlookup.com/user/644911866597998621) <= preferred, will respond fast
