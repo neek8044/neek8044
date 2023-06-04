@@ -1,5 +1,5 @@
 ## Hi there
-I am Nick, mostly using Python since it is the only language I know well enough. Planning to learn the C family (mostly C#), and Golang in the future.
+I am Nick, mostly using Python since it is the only language I know well enough. Planning to learn the C family (mostly Cpp), and Golang in the future.
 I will very likely also have to learn Javascript or a JS Framework though I don't like the way JS works.
 
 #### Tools
