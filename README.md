@@ -2,10 +2,11 @@
 I am Nick, mostly using Python since it is the only language I know well enough. Planning to learn the C family (mostly Cpp), and Golang in the future.
 I will very likely also have to learn Javascript or a JS Framework though I don't like the way JS works.
 
-#### Tools
+#### Stuff I use
 [![OS - Linux](https://img.shields.io/badge/OS-LINUX-orange?style=for-the-badge&logo=linux)](https://linux.org)
-[![Editor - VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Distro - Endeavour](https://img.shields.io/badge/Distro-Endeavour-a570b5?style=for-the-badge&logo=archlinux)](https://endeavouros.com/)
 [![Desktop - KDE](https://img.shields.io/badge/Desktop-KDE-teal?style=for-the-badge&logo=kde)](https://kde.org/)
+[![Editor - VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![Using - Git](https://img.shields.io/badge/Using-Git-red?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![Using - Docker](https://img.shields.io/badge/Using-Docker-blue?style=for-the-badge&logo=docker)](https://docker.com/)
 [![VM - Qemu](https://img.shields.io/badge/VM-Qemu-orangered?style=for-the-badge&logo=qemu)](https://www.qemu.org/)
