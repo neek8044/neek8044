@@ -2,7 +2,9 @@
 I am Nick, mostly using Python since it is the only language I know well enough. Planning to learn the C family (mostly Cpp), and Golang in the future.
 I will very likely also have to learn Javascript or a JS Framework though I don't like the way JS works.
 
-#### Stuff I use
+---
+
+#### Tools and Software
 [![OS - Linux](https://img.shields.io/badge/OS-LINUX-orange?style=for-the-badge&logo=linux)](https://linux.org)
 [![Distro - Endeavour](https://img.shields.io/badge/Distro-Endeavour-a570b5?style=for-the-badge&logo=archlinux)](https://endeavouros.com/)
 [![Desktop - KDE](https://img.shields.io/badge/Desktop-KDE-teal?style=for-the-badge&logo=kde)](https://kde.org/)
@@ -14,6 +16,10 @@ I will very likely also have to learn Javascript or a JS Framework though I don'
 #### Where to reach me
 [![Discord - Neek#8044](https://img.shields.io/badge/Discord-Neek%238044-mediumslateblue?style=for-the-badge&logo=discord)](https://discordlookup.com/user/644911866597998621)
 [![Instagram - neek8044](https://img.shields.io/badge/Instagram-neek8044-ea3c53?style=for-the-badge&logo=instagram)](https://instagram.com/neek8044)
+
+---
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=neek8044&show_icons=true&theme=github_dark)
 
 [PCEP Python Certificate](https://www.credly.com/badges/9efde939-a0b6-48ea-bd01-4d568c054d91/public_url)
 
